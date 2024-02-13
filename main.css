@@ -12,10 +12,24 @@ body{
 
 }
 
-.nav .nav-link, .navbar-brand, .navbar-brand:hover {
+.nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover {
     color: #fff;
 }
 
-.navbar-brand {
-    font-family: Pacifico, cursive;
+.navbar-toggle{
+    background-color: #ffeae6;
+}
+
+.section-title {
+    font-family: pacifico, cursive;
+}
+
+.section-title span {
+    color: #e15f41;
+}
+
+#sobre-o-restaurante {
+    background-color: #ffeae6;
 }
